@@ -1,6 +1,5 @@
 {
   "name": "shopping_app_server",
-  "packageManager": "yarn@3.2.1",
   "scripts": {
     "start": "nodemon src/index.ts"
   },
